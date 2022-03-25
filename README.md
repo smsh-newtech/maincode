@@ -1,2 +1,2 @@
 # maincode
-teacher_use
+https://smsh-newtech.github.io/maincode/
