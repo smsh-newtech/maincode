@@ -288,12 +288,13 @@ blockquote footer, blockquote small, blockquote .small { color: #453951; }
 }
 
 .wrap{
-	width: 1200px;
 	display: flex;
 	margin: auto;
+	flex-wrap: wrap;
+    justify-content: center;
 }
 .item{
-	width: 368px;
+	width: 250px;
 	margin: 15px;
 	text-align: center;
 	background-color: #fff;
